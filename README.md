@@ -1,5 +1,7 @@
 # Makisu
 
+** DISCLAIMER: None of this is actually built yet! **
+
 A CLI utility for capturing, restoring, and cloning Heroku apps and their configured state based on templates. Think Cloudformation for Heroku.
 
 ## Background
